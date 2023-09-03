@@ -26,7 +26,7 @@
 &nbsp;
 <a href="https://www.linkedin.com/in/rishabh-rohila/">
   <kbd>
-  <img align="centre" alt="Vikas's LinkdeIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
+  <img align="centre" alt="Rishabh's LinkdeIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 &nbsp;
 <a href="https://www.hackerrank.com/Rishabh_Rohilla">
@@ -44,7 +44,7 @@
 &nbsp;
  <a href="https://www.instagram.com/rr_royal_rj/">
   <kbd>
-  <img align="centre" alt="Vikas's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" />
+  <img align="centre" alt="Rishabh's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" />
 </a>
   &nbsp;
 <a href="https://twitter.com/rishabh_rohila">
